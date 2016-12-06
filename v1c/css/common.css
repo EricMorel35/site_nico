@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'flooditalic';
+  src: url('flood-webfont.eot');
+  src: url('flood-webfont.eot?#iefix') format('embedded-opentype'),
+       url('flood-webfont.woff2') format('woff2'),
+       url('flood-webfont.woff') format('woff'),
+       url('flood-webfont.ttf') format('truetype'),
+       url('flood-webfont.svg#flooditalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.categoryAction:hover {
+  cursor: pointer;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: #0c3342;
+}
+
+.title {
+  height: 200px;
+  line-height: 200px;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  font-family: 'flooditalic';
+  font-size: 20pt;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.mainColumn {
+  width: 260px;
+  float: left;
+  background: #0c3342;
+  height: 100%;
+}
+
+.secondaryMenu {
+  background: #0c3342;
+  float: left;
+  width: 200px;
+  height: 100%;
+}
+
+.parent {
+  overflow:hidden;
+  height: 100%;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 3000px;
+}
+
+.item-menu {
+  width: 100px;
+  color: #ffffff;
+  margin: 0;
+  display: inline-block;
+  height: 25px;
+  margin-bottom: 30px;
+  font-size: 14pt;
+  font-weight: normal;
+}
+
+.item-menu:hover {
+  color: #cca100;
+}
+
+.arrow-down {
+	width: 0; 
+	height: 0; 
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 20px solid #fff;
+	margin-left: 80px;
+}
+
+.secondTitle {
+  background: #ffffff;
+  height: 60px;
+  padding: 20px 20px 0px 20px;
+}
+
+.jobTitle {
+  color: #cca100;
+  font-weight: bold;
+  text-align: center;
+  margin: 5px 25px 60px 25px;
+  font-size: 10pt;
+}
+
+.secondCategories {
+  height: 100%;
+  margin: 175px 15px 0px 15px;
+}
+
+.titleSecondCategories {
+  color: #cca100;
+  font-size: 14pt;
+  /*line-height: 100px;*/
+}
+
+.titleSecondCategories:hover {
+	cursor: pointer;
+}
+
+.logo {
+  background-image:url(../images/logo-nico.png);
+  background-repeat: no-repeat;
+  height: 60px;
+  margin-top: 20px;
+}
+
+.button{
+	text-decoration: none;
+	color: #0c3342;
+	background-color: #cca100;
+	padding: 10px 20px 10px 20px;
+	font-weight: bold;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+ul {
+  list-style-type:none;
+  padding-left: 0px;
+  margin: 0px;
+  float: left;
+}
+
+nav {
+  min-height: 100px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: Open Sans, Helvetica, Arial;
+  font-size: 12pt;
+}
+
+h1 {
+  font-size: 34pt;
+  font-weight: normal;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 14pt;
+  font-weight: normal;
+  margin: 0;
+}
+
+.content {
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 70px;
+  max-width: 900px;
+}
+
+.footer {
+  height: 100px;
+}

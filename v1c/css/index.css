@@ -1,0 +1,52 @@
+body {
+  background: url(images/fond-home.png) no-repeat center fixed;
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+  font-family: Helvetica, Arial;
+}
+
+.parent {
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+ul {
+	list-style-type:none;
+	margin: 0 auto;
+	width: 50%;
+	margin-top: 500px;
+  text-align: center;
+}
+
+li {
+	display: inline-block;
+  margin-right: 50px;
+}
+
+img {
+	max-width: 60px;
+	max-height: 40px;
+}
+
+.red {
+	color: #ff0000;
+}
+
+.big {
+	font-size: 20pt;
+  	display:block;
+    width:350px;
+    height: 100%;
+    margin: 0 auto;
+	margin-top: 50px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.element {
+  width: 50px;
+  text-align: center;
+  display: inline-block;
+}

@@ -1,0 +1,320 @@
+[
+    {
+        "display": "Rodrigo y Gabriela",
+        "category": "Webdesign",
+        "title": "Rodrigo y Gabriela",
+        "descriptionSummary": "Webdesign pour la sortie de l'album un groupe de musique – recherche graphique personnelle (projet multimédia, fonctionnalités, interactivité et ergonomie)",
+        "banner": "images/teasers/Teaser-projet-nrx-rodrigo.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-rodrigo-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-rodrigo-2.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-rodrigo-3-.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Fromage Premium",
+        "category": "Vision 360°",
+        "title": "Fromage Premium",
+        "descriptionSummary": "Design de l'identité graphique de la marque, développement de packagings sous la nouvelle identité, design des supports d'édition (brochures gammes), du site web et des bannières web.",
+        "banner": "images/teasers/Teaser-projet-nrx-fromage.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-fromage-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-fromage-2.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-fromage-3.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-fromage-4.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Interface médicale",
+        "category": "Webdesign",
+        "title": "Interface médicale",
+        "descriptionSummary": "Design d'une plateforme médiale destinée à faciliter la coordination des acteurs du corps médical et appuyer le suivi d'interventions chirurgicales.",
+        "banner": "images/teasers/Teaser-projet-nrx-plateforme-medicale.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-platerfome medicale-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-platerfome medicale-2.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-platerfome medicale-3.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Une expertise valorisée",
+        "category": "Vision 360°",
+        "title": "Une expertise valorisée",
+        "descriptionSummary": "Design et ergonomie dans le cadre de la refonte du site web. Design éditorial pour diffuser les offres partenaires.",
+        "banner": "images/teasers/Teaser-projet-nrx-experts.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-experts-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-experts-2.jpg"
+        	},
+        	 {
+        		"url": "images/categories/projet-nrx-experts-3.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-experts-4.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-experts-5.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Habitat et immobilier",
+        "category": "Design",
+        "title": "Habitat et immobilier",
+        "descriptionSummary": "Recherche de l'univers graphique, communication institutionnelle, communication produits (stand, supports publicitaires, aide à la vente (supports et plaquettes), design de la vitrine de l'agence...)",
+        "banner": "images/teasers/Teaser-projet-nrx-habitat.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-habitat-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-habitat-2.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-habitat-3.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-habitat-4.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-habitat-5.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-habitat-6.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-habitat-7.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-habitat-8.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Festives",
+        "category": "Design",
+        "title": "Festives",
+        "descriptionSummary": "Recherche graphique, design de la PLV, des supports de communication.",
+        "banner": "images/teasers/Teaser-projet-nrx-festives.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-festives-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-festives-2.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Culinaires, produits et outils",
+        "category": "Design",
+        "title": "Culinaires, produits et outils",
+        "descriptionSummary": "Packagings GMS, Packaging produits professionnels, design de supports de communication (stop rayon, PLV, ...)",
+        "banner": "images/teasers/Teaser-projet-nrx-culinaire.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-culinaire-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-culinaire-2.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-culinaire-3.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Décoration intérieure",
+        "category": "Vision 360°",
+        "title": "Décoration intérieure",
+        "descriptionSummary": "Design de l'identité graphique, du logotype, des supports de communication, webdesign (site vitrine).",
+        "banner": "images/teasers/Teaser-projet-nrx-deco-interieure.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-deco interieure-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-deco interieure-2.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-deco interieure-3.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-deco interieure-4.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-deco interieure-5.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-deco interieure-6.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Logotypes",
+        "category": "Design",
+        "title": "Logotypes",
+        "descriptionSummary": "Design de logotypes. Divers clients (système de gestion de l'eau / constructeur de maisons individuelles / constructeur naval / conférence sur les énergies marine, …)",
+        "banner": "images/teasers/Teaser-projet-nrx-logo.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-logo-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-logo-2.jpg"
+        	},
+        	 {
+        		"url": "images/categories/projet-nrx-logo-3.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-logo-4.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-logo-5.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Livrets recettes professionnels",
+        "category": "Design",
+        "title": "Livrets recettes professionnels",
+        "descriptionSummary": "Livrets de recette destinés à la restauration professionnelle. Exécution de livrets de marques destinés à mettre en avant des innovations ou produits.",
+        "banner": "images/teasers/Teaser-projet-nrx-livrets-recettes.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-livrets recettes-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-livrets recettes-2.jpg"
+        	},
+        	 {
+        		"url": "images/categories/projet-nrx-livrets recettes-3.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-livrets recettes-4.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Energies et services",
+        "category": "Design",
+        "title": "Energies et services",
+        "descriptionSummary": "Recherche de l'univers graphique, communication institutionnelle, communication services et produits, (stand, kakemonos, supports publicitaires, plaquettes, bannières web...)",
+        "banner": "images/teasers/Teaser-projet-nrx-energies.jpg",
+        "images": [
+        	{
+        		"url": "images/categories/projet-nrx-energies-1.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-energies-2.jpg"
+        	},
+        	 {
+        		"url": "images/categories/projet-nrx-energies-3.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-energies-4.jpg"
+        	},
+        	{
+        		"url": "images/categories/projet-nrx-energies-5.jpg"
+        	}
+        ]
+    },
+    {
+        "display": "Bannières Web",
+        "category": "Webdesign",
+        "title": "Bannières Web",
+        "descriptionSummary": "Communication services et produits. Bannières web dans le cadre de campagnes Google Adwords. Divers clients.",
+        "banner": "images/teasers/Teaser-projet-nrx-Banner.jpg",
+        "images": [
+            {
+                "url": "images/categories/projet-nrx-Banner-1.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-Banner-2.jpg"
+            }
+        ]
+    },
+    {
+        "display": "Kits mail (fixes/responsives)",
+        "category": "Webdesign",
+        "title": "Kits mail (fixes ou optimisés responsive design)",
+        "descriptionSummary": "Communication institutionnelle, communication services et produits, mise en place d'Emailings et de Newsletters web. Objectif : générer du contact ou de la souscription de services via des kits mail fixes ou optimisés responsive design. Divers clients.",
+        "banner": "images/teasers/Teaser-projet-nrx-emailing.jpg",
+        "images": [
+            {
+                "url": "images/categories/projet-nrx-emaiiling-1.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-emaiiling-2.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-emaiiling-3.jpg"
+            }
+        ]
+    },
+    {
+        "display": "Ergonomie et Webdesign, Site web produit - Fermeture de garage",
+        "category": "Webdesign",
+        "title": "Ergonomie et Webdesign, Site web produit - Fermeture de garage",
+        "descriptionSummary": "Communication services et produits (Solutions de fermetures - particulier / Pro -, Portes de garage, portes spécifiques) , mise en place de l'Ergonomie du site (Recherche du fonctionnel, de l'expérience utilisateur, navigation, personnas, benchmarking). Webdesign du site, mise en couleur",
+        "banner": "images/teasers/Teaser-projet-nrx-Ergo-Fermeture.jpg",
+        "images": [
+            {
+                "url": "images/categories/projet-nrx-Ergo-Fermeture-1.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-Ergo-Fermeture-2.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-Ergo-Fermeture-3.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-Ergo-Fermeture-4.jpg"
+            }
+        ]
+    },
+    {
+        "display": "Ergonomie Site Immobilier",
+        "category": "Ergonomie",
+        "title": "Ergonomie Site Immobilier",
+        "descriptionSummary": "Recherche et mise en place de l'Ergonomie du site (Recherche du fonctionnel, de l'expérience utilisateur, navigation, personnas, benchmarking).",
+        "banner": "images/teasers/Teaser-projet-nrx-Ergo-Immo.jpg",
+        "images": [
+            {
+                "url": "images/categories/projet-nrx-Ergo-Immo-1.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-Ergo-Immo-2.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-Ergo-Immo-3.jpg"
+            },
+            {
+                "url": "images/categories/projet-nrx-Ergo-Immo-4.jpg"
+            }
+        ]
+    }
+]

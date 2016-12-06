@@ -1,0 +1,43 @@
+.mainContent {
+    background: #ffffff;
+    margin-left: 260px;
+    height: 100%;
+    overflow: auto;
+}
+
+/*.content {
+	margin: 50px 20px 20px 20px;
+}*/
+
+span.description {
+	color: #000000;
+	font-size: 12pt;
+}
+
+.banner {
+	height: 200px;
+	width: 100%;
+	background:url(../images/bandeau-informations.jpg) no-repeat;
+	background-size: cover;
+}
+
+.item-menu {
+  width: 100px;
+  color: #ffffff;
+  margin: 0;
+  display: inline-block;
+  height: 25px;
+  margin-bottom: 30px;
+}
+
+ul li img{
+  width: 60px;
+  height: 40px;
+  vertical-align: middle;
+}
+
+
+
+.englishText {
+	font-size: 10pt;
+}
